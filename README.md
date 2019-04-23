@@ -1,0 +1,2 @@
+# CS_knowledge_point_note
+这是一个大学四年的cs基础课部分专业课的复习笔记的扫描版备份仓库
